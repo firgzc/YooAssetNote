@@ -69,3 +69,17 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+/UniFramework.Event.csproj
+/UniFramework.Machine.csproj
+/UniFramework.Utility.csproj
+/UniTask.Addressables.csproj
+/UniTask.csproj
+/UniTask.DOTween.csproj
+/UniTask.Editor.csproj
+/UniTask.Linq.csproj
+/UniTask.TextMeshPro.csproj
+/YooAsset.csproj
+/YooAsset.Editor.csproj
+/yoo-asset-explanatory-note.sln
+/ProjectSettings
+/Packages
