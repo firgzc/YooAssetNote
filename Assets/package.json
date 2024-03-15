@@ -1,0 +1,22 @@
+{
+    "name": "com.firgzc.yooassetNote",
+    "displayName": "YooAssetNote",
+    "version": "2.1.1",
+    "unity": "2021.3.24f1",
+    "description": "在原有YooAsset基础上增加了注释及平台工具类",
+    "author": {
+        "name": "firgzc",
+        "url": "https://github.com/firgzc/YooAssetNote"
+    },    
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/firgzc/YooAssetNote.git"
+    },
+    "relatedPackages": {},
+    "dependencies": {
+        "com.unity.scriptablebuildpipeline": "1.21.21",
+        "com.unity.modules.assetbundle": "1.0.0",
+        "com.unity.modules.unitywebrequest": "1.0.0",
+        "com.unity.modules.unitywebrequestassetbundle": "1.0.0"
+    }
+}
